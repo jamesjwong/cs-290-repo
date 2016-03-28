@@ -1,2 +1,2 @@
-# cs-290-week1
+# cs-290-repo
 Week 1 Assignment Repo
